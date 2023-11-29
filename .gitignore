@@ -15,6 +15,7 @@ ec2keypair.*
 *.pub
 *.ppk
 
+
 # Yaml files
 *.yaml
 *.yml
