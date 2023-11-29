@@ -11,6 +11,7 @@
 
 # Keypais files
 ec2keypair
+ec2keypair.*
 *.pub
 *.ppk
 
