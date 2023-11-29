@@ -1,0 +1,1 @@
+This is a project to create AWS estate (VPC, InternetGateway, Loadbalancer, TargetGroup, Subnets, SecurityGroups, Keypair, RDS, EC2 has K3s nodes on the EC2 running Nginx)
